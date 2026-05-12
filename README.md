@@ -17,8 +17,5 @@ Uma interface moderna de autenticação desenvolvida com React, Vite e Styled Co
 - Vite
 - Styled Components
 
-## 📦 Instalação
-
-```bash
-npm install
-npm run dev
+## Online
+🔗 [Veja Online](https://adryelsantoss.github.io/tela-login/)
